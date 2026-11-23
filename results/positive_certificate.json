@@ -7,13 +7,19 @@
   "observed_times": 144,
   "irrational_parameter_expression": "sqrt(2)-2",
   "float_alpha": -0.5857864376269049,
-  "directed_ref_to_observed": 0.10122093528134704,
-  "directed_observed_to_ref": 0.10122093528134704,
-  "hausdorff_ref_observed": 0.10122093528134704,
-  "bottleneck_bound": 0.20244187056269408,
-  "reference_first_lifetimes": [0.7088107626207171, 0.7088107626207171],
-  "observed_first_lifetimes": [0.7196101435366569, 0.7122912069151383],
-  "certified_margin": 0.3039270214953289,
+  "directed_ref_to_observed": 0.10122093528134705,
+  "directed_observed_to_ref": 0.10122093528134705,
+  "hausdorff_ref_observed": 0.10122093528134705,
+  "bottleneck_bound": 0.2024418705626941,
+  "reference_first_lifetimes": [
+    0.7088107626207175,
+    0.7088107626207174
+  ],
+  "observed_first_lifetimes": [
+    0.7196101435366573,
+    0.7122912069151383
+  ],
+  "certified_margin": 0.3039270214953292,
   "mesh_bound_to_continuous_closure": 0.21375830502697735,
   "precision_caveat": "floating-point numerical certificate; exact rank of symbolic sqrt(2)-2 is mathematical"
 }
